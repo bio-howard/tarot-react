@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.931f6c58.chunk.css",
-    "main.js": "/static/js/main.f5e44e9f.chunk.js",
-    "main.js.map": "/static/js/main.f5e44e9f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.83c3e0c4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.83c3e0c4.js.map",
-    "static/js/2.c7cf932e.chunk.js": "/static/js/2.c7cf932e.chunk.js",
-    "static/js/2.c7cf932e.chunk.js.map": "/static/js/2.c7cf932e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.bd464dd306d78cb6fb80ad0ad92e30e8.js": "/precache-manifest.bd464dd306d78cb6fb80ad0ad92e30e8.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.931f6c58.chunk.css.map": "/static/css/main.931f6c58.chunk.css.map",
-    "static/js/2.c7cf932e.chunk.js.LICENSE.txt": "/static/js/2.c7cf932e.chunk.js.LICENSE.txt"
+    "main.css": "/tarot-react/static/css/main.931f6c58.chunk.css",
+    "main.js": "/tarot-react/static/js/main.f5e44e9f.chunk.js",
+    "main.js.map": "/tarot-react/static/js/main.f5e44e9f.chunk.js.map",
+    "runtime-main.js": "/tarot-react/static/js/runtime-main.385bc8f0.js",
+    "runtime-main.js.map": "/tarot-react/static/js/runtime-main.385bc8f0.js.map",
+    "static/js/2.c7cf932e.chunk.js": "/tarot-react/static/js/2.c7cf932e.chunk.js",
+    "static/js/2.c7cf932e.chunk.js.map": "/tarot-react/static/js/2.c7cf932e.chunk.js.map",
+    "index.html": "/tarot-react/index.html",
+    "precache-manifest.b8168e62fcb714d190602bcdcd57a14c.js": "/tarot-react/precache-manifest.b8168e62fcb714d190602bcdcd57a14c.js",
+    "service-worker.js": "/tarot-react/service-worker.js",
+    "static/css/main.931f6c58.chunk.css.map": "/tarot-react/static/css/main.931f6c58.chunk.css.map",
+    "static/js/2.c7cf932e.chunk.js.LICENSE.txt": "/tarot-react/static/js/2.c7cf932e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.83c3e0c4.js",
+    "static/js/runtime-main.385bc8f0.js",
     "static/js/2.c7cf932e.chunk.js",
     "static/css/main.931f6c58.chunk.css",
     "static/js/main.f5e44e9f.chunk.js"
